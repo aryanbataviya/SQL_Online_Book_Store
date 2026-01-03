@@ -1,7 +1,3 @@
-Perfect 👍
-Here is a **clean, professional GitHub README.md** you can directly copy–paste into your repository.
-
----
 
 # 📚 SQL Project: Online Book Store
 
